@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiao_ziji",
+    "texture": "54004d6b-1862-413c-8535-1ccfe7d80f10",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      104
+    ],
+    "capInsets": [
+      14,
+      31,
+      31,
+      42
+    ]
+  }
+}

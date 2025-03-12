@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ditan1",
+    "texture": "a9ff5750-b7a5-4a92-a91e-07d62d67590d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      405,
+      160
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      405,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hengfu_1",
+    "texture": "ce53b828-2fb0-4ba7-bd8e-ab8618122124",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      606,
+      201
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      606,
+      201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

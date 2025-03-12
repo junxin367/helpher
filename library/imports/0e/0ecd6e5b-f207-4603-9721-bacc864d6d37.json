@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dicidizuo",
+    "texture": "0197933a-96b7-4d45-8552-faa6022934f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

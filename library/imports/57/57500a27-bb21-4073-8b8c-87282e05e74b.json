@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linepoly",
+    "texture": "e1771e51-3195-4e84-800f-7e6526032fca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      242,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      242,
+      19
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

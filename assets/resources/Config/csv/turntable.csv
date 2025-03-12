@@ -1,0 +1,11 @@
+编号	类型(1:再转一次2:体力3:道具礼包4:电枪5:限定皮肤6:冻结7:磁铁)	内容	数量	文本	概率	缩略图
+id	type	content	num	text	chance	thumbnail
+int	int	string	int	string	int	string
+1	2	体力	5	体力 x 5	0.12	icon/tili
+2	3	道具礼包	1	道具礼包 x 1	0.1	icon/itembox
+3	2	体力	3	体力 x 3	0.32	icon/tili
+4	4	电枪	2	电枪 x 2	0.1	main/gun
+5	5	限定皮肤	1	限定皮肤 x 1	0.06	icon/pifu
+6	6	冻结	2	冻结 x 2	0.1	main/daoju_xuehua
+7	1	再转一次	1	再转一次	0.1	icon/zailaiyici
+8	7	磁铁	2	磁铁 x 2	0.1	ingame/magnet

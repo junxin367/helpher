@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mutou",
+    "texture": "78b5314a-8cb3-46a5-85bb-0022c821b98f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      29
+    ],
+    "capInsets": [
+      3,
+      3,
+      3,
+      3
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nanmaozitubiao",
+    "texture": "92015e4a-2fdc-4781-8dc8-7728ed8c8c12",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

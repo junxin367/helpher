@@ -1,0 +1,9 @@
+{
+  "name": "mesh-sprite",
+  "version": "0.0.1",
+  "description": "多边形纹理填充",
+  "author": "renwang",
+  "gizmos": {
+    "mesh-sprite": "packages://mesh-sprite/main.js"
+  }
+}

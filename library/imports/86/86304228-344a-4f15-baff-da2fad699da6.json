@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "unlockchapter_title",
+    "texture": "7270025e-3f9c-4d4b-837b-1987df5d368a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      463,
+      158
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      463,
+      158
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

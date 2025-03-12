@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lijibuchong",
+    "texture": "1eac8a9c-1a4e-49c9-add8-ca4c2af975d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      164,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

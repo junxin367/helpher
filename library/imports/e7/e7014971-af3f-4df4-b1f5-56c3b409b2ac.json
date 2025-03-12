@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sanxing",
+    "texture": "2aa1052c-fc26-4ccb-873e-96ef6d48fa9a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

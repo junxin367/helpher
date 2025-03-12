@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading_jindu_2",
+    "texture": "0765ca69-a90b-4cdf-b2b7-65e4bfd16371",
+    "atlas": "",
+    "rect": [
+      13,
+      7,
+      95,
+      31
+    ],
+    "offset": [
+      3,
+      5
+    ],
+    "originalSize": [
+      115,
+      55
+    ],
+    "capInsets": [
+      13,
+      0,
+      9,
+      0
+    ]
+  }
+}

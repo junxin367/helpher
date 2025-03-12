@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xingyunzhuanpan",
+    "texture": "24c2158a-e8bd-49fa-a408-908a67a7e061",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      294,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      294,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

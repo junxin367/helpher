@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maozi3",
+    "texture": "6ae57ffd-b75b-45dc-90d0-0e3f9fe3615b",
+    "atlas": "",
+    "rect": [
+      0,
+      22,
+      100,
+      55
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

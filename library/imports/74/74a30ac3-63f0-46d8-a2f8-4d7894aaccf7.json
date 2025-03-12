@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kuzitubiao",
+    "texture": "8af716f0-619a-4787-9741-9182733c5922",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      94
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      63,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

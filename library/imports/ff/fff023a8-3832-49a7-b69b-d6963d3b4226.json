@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ditangtubiao",
+    "texture": "0dee9604-592f-4dfb-8803-50a2cb983b54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      147,
+      79
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      147,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

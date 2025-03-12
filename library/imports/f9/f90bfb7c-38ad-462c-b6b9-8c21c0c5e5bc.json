@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "levelzi-export",
+    "texture": "9523e40c-29fa-47e5-b0a5-7e205805e16d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      253
+    ],
+    "offset": [
+      -50,
+      1.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lock_chal",
+    "texture": "1faef53e-e450-471a-8791-938966c4d32c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daoju_di",
+    "texture": "97ff3bbd-8065-45bd-a152-8535891cfbca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      132
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

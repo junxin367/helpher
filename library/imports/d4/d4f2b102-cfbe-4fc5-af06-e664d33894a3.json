@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daoju_heidi",
+    "texture": "4e9effa6-d830-42fa-9541-2bb7ab0a0b7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

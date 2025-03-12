@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dianjiqiang",
+    "texture": "d91b9e6c-4c45-48d9-8a97-cd6ac143a7f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      246,
+      133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      246,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

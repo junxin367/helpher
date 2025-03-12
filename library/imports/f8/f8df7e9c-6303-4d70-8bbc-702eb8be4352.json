@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coke_title_label_light_1",
+    "texture": "27e925f3-1947-40d4-ac4a-b4824d6d06b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

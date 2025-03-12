@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiezitubiao",
+    "texture": "feb3e061-6045-415d-9776-5a1f731060be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

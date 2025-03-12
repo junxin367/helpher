@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yq",
+    "texture": "ab00c49d-a3e2-41f6-9f46-7527ef13896c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

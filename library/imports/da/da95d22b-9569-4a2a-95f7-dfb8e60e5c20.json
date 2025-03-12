@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaoshi5",
+    "texture": "bfc3a11b-00f0-47f3-af2f-5238a555180c",
+    "atlas": "",
+    "rect": [
+      6,
+      0,
+      86,
+      97
+    ],
+    "offset": [
+      -1,
+      1.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

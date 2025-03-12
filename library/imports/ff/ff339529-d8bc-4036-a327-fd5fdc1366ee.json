@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mantili",
+    "texture": "435c101e-e98c-4e75-967c-2d862664d084",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      67
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      63,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qipao",
+    "texture": "5b44ebc6-acc8-412f-8c37-7cdced7947b7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      80
+    ],
+    "capInsets": [
+      23,
+      12,
+      22,
+      27
+    ]
+  }
+}

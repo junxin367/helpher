@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhangjie_bg",
+    "texture": "ec22fd71-2fb2-488e-891b-de7f66560f30",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      575
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      575
+    ],
+    "capInsets": [
+      321,
+      301,
+      291,
+      207
+    ]
+  }
+}

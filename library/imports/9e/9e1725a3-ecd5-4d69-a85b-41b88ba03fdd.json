@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baijiantubiao",
+    "texture": "1afa51d3-2dd7-4e05-b355-a03852674a4e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      95
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      77,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

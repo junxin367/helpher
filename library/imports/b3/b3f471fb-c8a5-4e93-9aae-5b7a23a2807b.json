@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liangxing",
+    "texture": "4d16e49c-cbee-4251-895e-25578b7b2e23",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

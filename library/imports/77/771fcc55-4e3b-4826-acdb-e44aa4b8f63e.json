@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lixianshouyi",
+    "texture": "0ff6fa95-fbbd-4794-aa39-85f5c2fcaca5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      242,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      242,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

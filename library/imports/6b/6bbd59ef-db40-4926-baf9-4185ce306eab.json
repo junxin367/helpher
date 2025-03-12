@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shangshen3",
+    "texture": "96093203-eeb6-482d-9854-657f89b7d561",
+    "atlas": "",
+    "rect": [
+      15,
+      2,
+      80,
+      93
+    ],
+    "offset": [
+      5,
+      1.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

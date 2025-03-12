@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huatubiao",
+    "texture": "193967c1-1d43-4724-8133-d0efd5ec3a15",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      79
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      95,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

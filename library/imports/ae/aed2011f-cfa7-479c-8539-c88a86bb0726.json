@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "friend_frame_temp",
+    "texture": "4a009dc0-cf8f-4553-beaf-fcb4e32773e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      31,
+      39
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

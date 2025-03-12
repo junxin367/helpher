@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhuye_zi",
+    "texture": "2640b481-acf0-46c2-b2c2-e9246438b79f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shangyitubiao",
+    "texture": "dc75207c-eaae-42a8-bef7-892e8995bc36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      87
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      95,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xuanze",
+    "texture": "a47663c9-a14d-4a28-abbf-7e12b25f9a48",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

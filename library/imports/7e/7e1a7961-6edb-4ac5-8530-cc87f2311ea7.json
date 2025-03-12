@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhengchang",
+    "texture": "423dbf46-68d3-4b32-b35d-2af8d9e28721",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

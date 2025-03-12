@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.Material",
+  "_name": "wall-bg",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "eaaf6687-8627-46c7-85eb-7b4053eaa2a9"
+  },
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "mainTiling": {
+          "__type__": "cc.Vec2",
+          "x": 0.2,
+          "y": 0.2
+        },
+        "speed": 20,
+        "freq": 10,
+        "amp": 0.14
+      }
+    }
+  }
+}

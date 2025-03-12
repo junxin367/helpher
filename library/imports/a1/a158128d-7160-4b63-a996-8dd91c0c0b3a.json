@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nvmaozitubiao",
+    "texture": "8891487a-f13e-457d-a16c-ccc13757e6b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      76
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      95,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

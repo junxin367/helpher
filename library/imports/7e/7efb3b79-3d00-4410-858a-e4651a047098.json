@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buchongtili",
+    "texture": "7874c6bc-6a6e-4354-b428-a0e106443382",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      242,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      242,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

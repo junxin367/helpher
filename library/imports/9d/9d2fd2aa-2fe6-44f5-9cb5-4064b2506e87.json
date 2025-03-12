@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "praise3",
+    "texture": "3ea6d471-893f-48ab-aaca-07d64989f010",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      79
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

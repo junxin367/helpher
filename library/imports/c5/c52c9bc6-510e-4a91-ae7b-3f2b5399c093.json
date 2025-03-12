@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baobao2",
+    "texture": "1bfe460c-29b5-4a82-9b7a-79a039939289",
+    "atlas": "",
+    "rect": [
+      21,
+      0,
+      57,
+      99
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

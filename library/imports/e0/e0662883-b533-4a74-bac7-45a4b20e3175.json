@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "turntable",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "编号\t类型(1:再转一次2:体力3:道具礼包4:电枪5:限定皮肤6:冻结7:磁铁)\t内容\t数量\t文本\t概率\t缩略图\r\nid\ttype\tcontent\tnum\ttext\tchance\tthumbnail\r\nint\tint\tstring\tint\tstring\tint\tstring\r\n1\t2\t体力\t5\t体力 x 5\t0.12\ticon/tili\r\n2\t3\t道具礼包\t1\t道具礼包 x 1\t0.1\ticon/itembox\r\n3\t2\t体力\t3\t体力 x 3\t0.32\ticon/tili\r\n4\t4\t电枪\t2\t电枪 x 2\t0.1\tmain/gun\r\n5\t5\t限定皮肤\t1\t限定皮肤 x 1\t0.06\ticon/pifu\r\n6\t6\t冻结\t2\t冻结 x 2\t0.1\tmain/daoju_xuehua\r\n7\t1\t再转一次\t1\t再转一次\t0.1\ticon/zailaiyici\r\n8\t7\t磁铁\t2\t磁铁 x 2\t0.1\tingame/magnet\r\n"
+}

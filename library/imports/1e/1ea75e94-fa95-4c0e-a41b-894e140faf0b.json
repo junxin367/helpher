@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaoqing",
+    "texture": "f008780f-838e-4bf2-b820-76c3422e7338",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cao_2_chal",
+    "texture": "435b4ef2-2a95-405a-8d60-20bd0491330b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      27
+    ],
+    "capInsets": [
+      3,
+      2,
+      3,
+      3
+    ]
+  }
+}

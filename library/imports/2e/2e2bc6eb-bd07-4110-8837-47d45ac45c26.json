@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shipin",
+    "texture": "b968cdd7-c1e8-4b40-84e9-8686aa862d8a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

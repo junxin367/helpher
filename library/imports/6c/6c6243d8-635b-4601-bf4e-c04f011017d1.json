@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Sign",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "签到数\t首周奖励（1-体力，2-道具礼包，3-皮肤）\t首周按钮\t循环奖励\t循环按钮\t通用数量\t图标\t循环图标\r\nday\ttype\tbtnString\ttypeLoop\tbtnLoopString\tnumber\ticon\ticonLoop\r\nint\tint\tstring\tint\tstring\tint\tstring\tstring\r\n1\t1\t看视频领双倍体力\t1\t看视频领双倍体力\t5\tImg/icon/tili\tImg/icon/tili\r\n2\t2\t看视频领双倍道具\t2\t看视频领双倍道具\t1\tImg/skin/xianding\tImg/skin/xianding\r\n3\t1\t看视频领双倍体力\t1\t看视频领双倍体力\t5\tImg/icon/tili\tImg/icon/tili\r\n4\t1\t看视频领双倍体力\t1\t看视频领双倍体力\t5\tImg/icon/tili\tImg/icon/tili\r\n5\t2\t看视频领双倍道具\t2\t看视频领双倍道具\t1\tImg/skin/xianding\tImg/skin/xianding\r\n6\t1\t看视频领双倍体力\t1\t看视频领双倍体力\t5\tImg/icon/tili\tImg/icon/tili\r\n7\t3\t领取稀有皮肤\t2\t看视频领双倍道具\t1\tImg/skin/thumbnail/1/yifu1\tImg/skin/xianding"
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yifu",
+    "texture": "9e783b37-6b9a-4205-bef6-7848ed55ce43",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

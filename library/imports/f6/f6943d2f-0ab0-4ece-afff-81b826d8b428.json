@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaoshi_yuan",
+    "texture": "83792a9d-16ef-4030-822e-c6427671bdba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

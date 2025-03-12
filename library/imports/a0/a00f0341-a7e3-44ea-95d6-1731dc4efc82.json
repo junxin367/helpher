@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinshucao_2",
+    "texture": "6eca3fba-63b0-4097-89a3-a0690d901820",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      198
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      198
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

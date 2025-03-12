@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "men_chal",
+    "texture": "84a94c58-61a4-4acd-b3a6-ad83abd11bc7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuangliantubiao",
+    "texture": "138cae66-535e-45e6-b450-0146dc6c6447",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      95
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      90,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

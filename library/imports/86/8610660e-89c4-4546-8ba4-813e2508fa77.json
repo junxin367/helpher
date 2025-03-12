@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dikuang",
+    "texture": "85c1a15b-de11-4b9a-a947-df0f8fbc954a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      123
+    ],
+    "capInsets": [
+      26,
+      36,
+      20,
+      13
+    ]
+  }
+}

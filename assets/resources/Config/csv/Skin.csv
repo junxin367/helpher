@@ -1,0 +1,55 @@
+编号	名称	类型（1：女 2：男 3：装饰）	子类（0:头发，1：头饰 2：上身 3：下身 4：物品 5：主题 6：钥匙）	解锁条件1（关卡）	解锁条件2（星星数）	对应资源	缩略图	解锁类型(1:关卡，2星星，3看视频, 4默认)	数据
+id	name	type	subType	unlock1	unlock2	res	thumbnail	unlockType	data
+int	string	int	int	int	int	string	string	int	int
+1	褐色烫发	1	0			toufa:0	toufa	4	
+2	金色烫发	1	0		54	toufa:2	toufa2	2	
+3	棕色烫发	1	0		155	toufa:1	toufa1	2	
+4	金色卷发	1	0		255	toufa:3	toufa3	2	
+5	无帽子	1	1			maozi:-1	meiyoumaozi	4	
+6	淑女帽	1	1	35		maozi:0	maozi1	1	
+7	鸭舌帽	1	1			maozi:1	maozi2	3	
+8	韩风帽	1	1			maozi:2	maozi3	3	
+9	红色线衫	1	2			body:0/r_arm:0/r_l_arm:0	yifu	4	
+10	粉色短袖	1	2		24	body:1/r_arm:1/r_l_arm:1	yifu4	2	
+11	时尚夹克	1	2		80	body:2/r_arm:2/r_l_arm:2	yifu3	2	
+12	女士风衣	1	2			body:3/r_arm:3/r_l_arm:3	yifu2	3	
+13	金色小衫	1	2			body:4/r_arm:4/r_l_arm:4	yifu1	3	
+14	浅蓝长裤	1	3			l_feet:0/r_feet:0/l_u_leg:0/l_l_leg:0/r_u_leg:0/r_l_leg:0	xiashen	4	
+15	时尚长裤	1	3		100	l_feet:4/r_feet:4/l_u_leg:1/l_l_leg:1/r_u_leg:1/r_l_leg:1	xiashen4	2	
+16	牛仔裤	1	3		400	l_feet:3/r_feet:3/l_u_leg:2/l_l_leg:2/r_u_leg:2/r_l_leg:2	xiashen3	2	
+17	灰色短裤	1	3			l_feet:2/r_feet:2/l_u_leg:3/l_l_leg:3/r_u_leg:3/r_l_leg:3	xiashen2	3	
+18	黑色短裤	1	3			l_feet:1/r_feet:1/l_u_leg:4/l_l_leg:3/r_u_leg:4/r_l_leg:3	xiashen1	3	
+19	简易包	1	4			bao:0	bao	4	
+20	小橙包	1	4	5		bao:1	baobao1	1	
+21	爱心包	1	4			bao:2	baobao2	3	
+22	潮流包	1	4			bao:3	baobao3	3	
+23	无头发	2	0			hair:-1	toufa	4	
+24	飞机头	2	0		75	hair:0	toufa1	2	
+25	褐色短发	2	0		135	hair:1	toufa2	2	
+26	中年短发	2	0		240	hair:2	toufa3	2	
+27	无帽子	2	1			hat:-1	meiyoumaozi	4	
+28	爵士帽	2	1	50		hat:0	maozi1	1	
+29	侦探帽	2	1			hat:1	maozi2	3	
+30	绅士帽	2	1			hat:2	maozi3	3	
+31	棕色毛衣	2	2			body:0/r_u_arm:0/r_l_arm:0/l_arm:0	shangshen	4	
+32	传统西服	2	2		35	body:1/r_u_arm:1/r_l_arm:1/l_arm:1	shangshen1	2	
+33	蓝色线衫	2	2			body:2/r_u_arm:2/r_l_arm:2/l_arm:2	shangshen2	3	
+34	时尚卫衣	2	2			body:3/r_u_arm:3/r_l_arm:3/l_arm:3	shangshen3	3	
+35	蓝色长裤	2	3			legs:0/l_feet:0/r_feet:0	xiashen	4	
+36	深色长裤	2	3		160	legs:1/l_feet:1/r_feet:1	xiashen1	2	
+37	休闲短裤	2	3		380	legs:2/l_feet:2/r_feet:2	xiashen2	2	
+38	灰色长裤	2	3			legs:3/l_feet:3/r_feet:3	xiashen3	3	
+39	玫瑰	2	4			flower:0	hua	4	
+40	郁金香	2	4	15		flower:1	hua3	1	
+41	向日葵	2	4			flower:2	hua2	3	
+42	康乃馨	2	4			flower:3	hua1	3	
+43	风色幻想	3	5				zhuti_1	4	1
+44	宁静之夜	3	5	10			zhuti_2	1	2
+45	沙漠风情	3	5	30			zhuti_3	1	3
+46	夏日荷塘	3	5	60			zhuti_4	1	4
+47	黄金之钥	3	6				yaoshi6	4	1
+48	星之钥	3	6	20			yaoshi1	1	2
+49	炫彩之钥	3	6	40			yaoshi2	1	3
+50	冰甜之钥	3	6				yaoshi3	3	4
+51	风之钥	3	6				yaoshi4	3	5
+52	荷之钥	3	6				yaoshi5	3	6

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "men2",
+    "texture": "95ea823e-4b52-4137-85dc-0bb73314ab26",
+    "atlas": "",
+    "rect": [
+      37,
+      4,
+      114,
+      176
+    ],
+    "offset": [
+      3,
+      -2
+    ],
+    "originalSize": [
+      182,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

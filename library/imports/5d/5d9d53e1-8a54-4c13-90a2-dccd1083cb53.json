@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaoshi_heng2",
+    "texture": "b9bbc8c5-f2dd-4357-bbe8-d9265bc705c2",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      28,
+      14
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      29,
+      14
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

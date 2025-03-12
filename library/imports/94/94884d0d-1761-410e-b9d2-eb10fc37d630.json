@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dianji",
+    "texture": "d3095132-e096-456c-b78d-8f55352a4806",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

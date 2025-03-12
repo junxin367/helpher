@@ -1,0 +1,207 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "levelzi-export",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "f90bfb7c-38ad-462c-b6b9-8c21c0c5e5bc"
+  },
+  "fontSize": 32,
+  "_fntConfig": {
+    "commonHeight": 36,
+    "fontSize": 32,
+    "atlasName": "C:\\Users\\Administrator\\Desktop\\levelzi-export.png",
+    "fontDefDictionary": {
+      "9": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 136
+      },
+      "32": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 17
+      },
+      "45": {
+        "rect": {
+          "x": 56,
+          "y": 236,
+          "width": 22,
+          "height": 16
+        },
+        "xOffset": 0,
+        "yOffset": 5,
+        "xAdvance": 25
+      },
+      "48": {
+        "rect": {
+          "x": 58,
+          "y": 0,
+          "width": 34,
+          "height": 55
+        },
+        "xOffset": 0,
+        "yOffset": -19,
+        "xAdvance": 37
+      },
+      "49": {
+        "rect": {
+          "x": 125,
+          "y": 55,
+          "width": 21,
+          "height": 53
+        },
+        "xOffset": 0,
+        "yOffset": -18,
+        "xAdvance": 24
+      },
+      "50": {
+        "rect": {
+          "x": 92,
+          "y": 110,
+          "width": 32,
+          "height": 54
+        },
+        "xOffset": 0,
+        "yOffset": -19,
+        "xAdvance": 35
+      },
+      "51": {
+        "rect": {
+          "x": 93,
+          "y": 0,
+          "width": 31,
+          "height": 55
+        },
+        "xOffset": 0,
+        "yOffset": -19,
+        "xAdvance": 34
+      },
+      "52": {
+        "rect": {
+          "x": 56,
+          "y": 126,
+          "width": 35,
+          "height": 53
+        },
+        "xOffset": 0,
+        "yOffset": -18,
+        "xAdvance": 38
+      },
+      "53": {
+        "rect": {
+          "x": 125,
+          "y": 0,
+          "width": 31,
+          "height": 54
+        },
+        "xOffset": 0,
+        "yOffset": -18,
+        "xAdvance": 34
+      },
+      "54": {
+        "rect": {
+          "x": 57,
+          "y": 62,
+          "width": 34,
+          "height": 54
+        },
+        "xOffset": 0,
+        "yOffset": -18,
+        "xAdvance": 37
+      },
+      "55": {
+        "rect": {
+          "x": 92,
+          "y": 56,
+          "width": 32,
+          "height": 53
+        },
+        "xOffset": 0,
+        "yOffset": -18,
+        "xAdvance": 35
+      },
+      "56": {
+        "rect": {
+          "x": 56,
+          "y": 180,
+          "width": 34,
+          "height": 55
+        },
+        "xOffset": 0,
+        "yOffset": -19,
+        "xAdvance": 37
+      },
+      "57": {
+        "rect": {
+          "x": 91,
+          "y": 180,
+          "width": 33,
+          "height": 55
+        },
+        "xOffset": 0,
+        "yOffset": -19,
+        "xAdvance": 36
+      },
+      "20851": {
+        "rect": {
+          "x": 0,
+          "y": 190,
+          "width": 55,
+          "height": 63
+        },
+        "xOffset": 0,
+        "yOffset": -23,
+        "xAdvance": 58
+      },
+      "21345": {
+        "rect": {
+          "x": 0,
+          "y": 62,
+          "width": 56,
+          "height": 63
+        },
+        "xOffset": 0,
+        "yOffset": -23,
+        "xAdvance": 59
+      },
+      "25112": {
+        "rect": {
+          "x": 0,
+          "y": 126,
+          "width": 55,
+          "height": 63
+        },
+        "xOffset": 0,
+        "yOffset": -23,
+        "xAdvance": 58
+      },
+      "25361": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 57,
+          "height": 61
+        },
+        "xOffset": 0,
+        "yOffset": -22,
+        "xAdvance": 60
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

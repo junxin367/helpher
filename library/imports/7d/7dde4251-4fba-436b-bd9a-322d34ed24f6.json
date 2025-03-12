@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tubiao_qiandao",
+    "texture": "34008dff-8fc9-4f28-8aad-ccce340fdda9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      129
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

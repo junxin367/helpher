@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "home",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "ground/badman": {
+        "comps": {},
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -804.064
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 456.707
+            }
+          ]
+        }
+      },
+      "ground/girl": {
+        "comps": {},
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -427.544
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 534.575
+            },
+            {
+              "frame": 0.85,
+              "value": -446.373
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1.25,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": -1.25
+            }
+          ]
+        }
+      },
+      "ground/dog": {
+        "comps": {},
+        "props": {
+          "x": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 650.903
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -439.41
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

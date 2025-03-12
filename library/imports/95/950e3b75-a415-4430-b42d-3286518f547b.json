@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gxhd",
+    "texture": "d50d4468-f994-4513-9548-d22d0ffb0ff3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      503,
+      169
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      503,
+      169
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buchongdaoju2",
+    "texture": "8cfcd789-aa89-46dd-8684-358853771602",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

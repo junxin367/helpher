@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huoqutili",
+    "texture": "17a6f2c5-f028-4fda-8048-205c665990ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      176,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

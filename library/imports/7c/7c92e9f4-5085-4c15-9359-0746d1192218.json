@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zaicitiaozhan",
+    "texture": "83afbb51-10fb-4d6e-a51d-616d1dbcdc82",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

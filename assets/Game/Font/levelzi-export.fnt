@@ -1,0 +1,23 @@
+info face="C:\Users\Administrator\Desktop\levelzi-export" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=36 base=26 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="C:\Users\Administrator\Desktop\levelzi-export.png"
+chars count=17
+char id=20851 x=0 y=190 width=55 height=63 xoffset=0 yoffset=-23 xadvance=58 page=0 chnl=0 letter="关"
+char id=21345 x=0 y=62 width=56 height=63 xoffset=0 yoffset=-23 xadvance=59 page=0 chnl=0 letter="卡"
+char id=25361 x=0 y=0 width=57 height=61 xoffset=0 yoffset=-22 xadvance=60 page=0 chnl=0 letter="挑"
+char id=25112 x=0 y=126 width=55 height=63 xoffset=0 yoffset=-23 xadvance=58 page=0 chnl=0 letter="战"
+char id=45 x=56 y=236 width=22 height=16 xoffset=0 yoffset=5 xadvance=25 page=0 chnl=0 letter="-"
+char id=48 x=58 y=0 width=34 height=55 xoffset=0 yoffset=-19 xadvance=37 page=0 chnl=0 letter="0"
+char id=49 x=125 y=55 width=21 height=53 xoffset=0 yoffset=-18 xadvance=24 page=0 chnl=0 letter="1"
+char id=50 x=92 y=110 width=32 height=54 xoffset=0 yoffset=-19 xadvance=35 page=0 chnl=0 letter="2"
+char id=51 x=93 y=0 width=31 height=55 xoffset=0 yoffset=-19 xadvance=34 page=0 chnl=0 letter="3"
+char id=52 x=56 y=126 width=35 height=53 xoffset=0 yoffset=-18 xadvance=38 page=0 chnl=0 letter="4"
+char id=53 x=125 y=0 width=31 height=54 xoffset=0 yoffset=-18 xadvance=34 page=0 chnl=0 letter="5"
+char id=54 x=57 y=62 width=34 height=54 xoffset=0 yoffset=-18 xadvance=37 page=0 chnl=0 letter="6"
+char id=55 x=92 y=56 width=32 height=53 xoffset=0 yoffset=-18 xadvance=35 page=0 chnl=0 letter="7"
+char id=56 x=56 y=180 width=34 height=55 xoffset=0 yoffset=-19 xadvance=37 page=0 chnl=0 letter="8"
+char id=57 x=91 y=180 width=33 height=55 xoffset=0 yoffset=-19 xadvance=36 page=0 chnl=0 letter="9"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=136 page=0 chnl=0 letter="	"
+
+kernings count=0

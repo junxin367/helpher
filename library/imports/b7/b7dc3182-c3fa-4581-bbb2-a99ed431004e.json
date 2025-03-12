@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Collection",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "编号\t名字\t种类（1摆件、2地板、3墙纸、4地毯、5柜子、6窗帘、7沙发）\t对应资源\t缩略图\t解锁类型(1:默认)\r\nid\tname\ttype\tres\tthumbnail\tunlockType\r\nint\tstring\tint\tstring\tstring\tint\r\n1\t摆件\t1\tbaijian1\tbaijian1\t\r\n2\t摆件\t1\tbaijian2\tbaijian2\t\r\n3\t摆件\t1\tbaijian3\tbaijian3\t\r\n4\t摆件\t1\tbaijian4\tbaijian4\t\r\n5\t摆件\t1\tbaijian5\tbaijian5\t\r\n6\t摆件\t1\tbaijian6\tbaijian6\t\r\n7\t无\t2\t\t\t1\r\n8\t地板\t2\tdiban1\tdiban1\t\r\n9\t地板\t2\tdiban2\tdiban2\t\r\n10\t地板\t2\tdiban3\tdiban3\t\r\n11\t地板\t2\tdiban4\tdiban4\t\r\n12\t无\t3\t\t\t1\r\n13\t墙纸\t3\tqiangzhi1\tqiangzhi1\t\r\n14\t墙纸\t3\tqiangzhi2\tqiangzhi2\t\r\n15\t墙纸\t3\tqiangzhi3\tqiangzhi3\t\r\n16\t墙纸\t3\tqiangzhi4\tqiangzhi4\t\r\n17\t无\t4\t\t\t1\r\n18\t地毯\t4\tditan1\tditan1\t\r\n19\t地毯\t4\tditan2\tditan2\t\r\n20\t地毯\t4\tditan3\tditan3\t\r\n21\t地毯\t4\tditan4\tditan4\t\r\n22\t无\t5\t\t\t1\r\n23\t柜子\t5\tguizi1\tguizi1\t\r\n24\t柜子\t5\tguizi2\tguizi2\t\r\n25\t柜子\t5\tguizi3\tguizi3\t\r\n26\t无\t6\t\t\t1\r\n27\t窗帘\t6\tchuanglian1\tchuanglian1\t\r\n28\t窗帘\t6\tchuanglian2\tchuanglian2\t\r\n29\t窗帘\t6\tchuanglian3\tchuanglian3\t\r\n30\t无\t7\t\t\t1\r\n31\t沙发\t7\tshafa1\tshafa1\t\r\n32\t沙发\t7\tshafa2\tshafa2\t\r\n33\t沙发\t7\tshafa3\tshafa3\t"
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "findbox",
+    "texture": "047daaae-e572-4ae7-aa13-5e5664994438",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

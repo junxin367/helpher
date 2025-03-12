@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guanqiatiaozhan",
+    "texture": "a7feea4c-ab68-4837-9ab5-d5c9839a1e46",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

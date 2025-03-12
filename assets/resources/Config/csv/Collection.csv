@@ -1,0 +1,36 @@
+编号	名字	种类（1摆件、2地板、3墙纸、4地毯、5柜子、6窗帘、7沙发）	对应资源	缩略图	解锁类型(1:默认)
+id	name	type	res	thumbnail	unlockType
+int	string	int	string	string	int
+1	摆件	1	baijian1	baijian1	
+2	摆件	1	baijian2	baijian2	
+3	摆件	1	baijian3	baijian3	
+4	摆件	1	baijian4	baijian4	
+5	摆件	1	baijian5	baijian5	
+6	摆件	1	baijian6	baijian6	
+7	无	2			1
+8	地板	2	diban1	diban1	
+9	地板	2	diban2	diban2	
+10	地板	2	diban3	diban3	
+11	地板	2	diban4	diban4	
+12	无	3			1
+13	墙纸	3	qiangzhi1	qiangzhi1	
+14	墙纸	3	qiangzhi2	qiangzhi2	
+15	墙纸	3	qiangzhi3	qiangzhi3	
+16	墙纸	3	qiangzhi4	qiangzhi4	
+17	无	4			1
+18	地毯	4	ditan1	ditan1	
+19	地毯	4	ditan2	ditan2	
+20	地毯	4	ditan3	ditan3	
+21	地毯	4	ditan4	ditan4	
+22	无	5			1
+23	柜子	5	guizi1	guizi1	
+24	柜子	5	guizi2	guizi2	
+25	柜子	5	guizi3	guizi3	
+26	无	6			1
+27	窗帘	6	chuanglian1	chuanglian1	
+28	窗帘	6	chuanglian2	chuanglian2	
+29	窗帘	6	chuanglian3	chuanglian3	
+30	无	7			1
+31	沙发	7	shafa1	shafa1	
+32	沙发	7	shafa2	shafa2	
+33	沙发	7	shafa3	shafa3	

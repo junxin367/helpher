@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Prop",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "编号\t道具名\t说明文本\t图片\nid\tname\tdesc\ticon\nint\tstring\tstring\tstring\n1\t电枪\t发射电磁并消灭同层敌人\tImg/main/gun\n2\t冻结\t投掷雪球使所有敌人冰冻十秒\tImg/main/daoju_xuehua\n3\t磁铁\t立即将房间的所有星星吸收\tImg/main/daoju_citie"
+}

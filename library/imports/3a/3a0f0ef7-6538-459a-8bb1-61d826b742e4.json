@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dici",
+    "texture": "8157cdd1-2351-4908-afe0-12be98bf4761",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      21,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      21,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

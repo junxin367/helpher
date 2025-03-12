@@ -1,0 +1,53 @@
+// Copyright (c) 2017-2018 Xiamen Yaji Software Co., Ltd.  
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: unlit-vs
+      frag: fs
+      depthStencilState:
+        depthTest: true
+        depthWrite: true
+      blendState:
+        targets:
+        - blend: true
+      rasterizerState:
+        cullMode: none
+      properties:
+        diffuseTexture: { value: white }
+        diffuseColor: { value: [1, 1, 1, 1], inspector: { type: color } }
+        # alphaThreshold: { value: 0.5 }
+        mainTiling: { value: [1, 1] }
+        mainOffset: { value: [0, 0] }
+        speed: { value: 10.0 }
+        freq: { value: 50.0 }
+        amp: { value: 0.005 }
+}%
+
+
+
+CCProgram fs %{
+  precision mediump float;
+  #include <cc-global>
+  #if USE_DIFFUSE_TEXTURE
+    in vec2 v_uv0;
+    uniform sampler2D diffuseTexture;
+  #endif
+  uniform Const{
+    vec4 diffuseColor;
+    float speed;
+    float freq;
+    float amp;
+  };
+  void main(){
+    vec4 o = diffuseColor;
+
+    float len = length(v_uv0 ) *freq;    
+    vec2 ripple = normalize(v_uv0) * ( sin((len - cc_time.x * speed))) * amp;      
+    #if USE_DIFFUSE_TEXTURE
+      o *= texture(diffuseTexture,v_uv0+ripple);
+    #endif 
+    
+    // return CCFragOutput(o);
+    gl_FragColor = o;
+  }
+}%

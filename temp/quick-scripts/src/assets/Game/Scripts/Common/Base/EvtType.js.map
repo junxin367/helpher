@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Game\\Scripts\\Common\\Base\\EvtType.ts"],"names":[],"mappings":";;;;;;;AAAA,IAAY,OAIX;AAJD,WAAY,OAAO;IACf,IAAI;IACJ,mCAAG,CAAA;AAEP,CAAC,EAJW,OAAO,GAAP,eAAO,KAAP,eAAO,QAIlB","file":"","sourceRoot":"/","sourcesContent":["export enum EvtType {\r\n    //胜利\r\n    Win,\r\n\r\n}"]}

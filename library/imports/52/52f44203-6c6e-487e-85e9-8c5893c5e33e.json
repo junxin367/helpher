@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Crate_ske_tex",
+    "texture": "e99dfe14-5e32-49c0-9ddc-d673f2928c04",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      992,
+      672
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      995,
+      675
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

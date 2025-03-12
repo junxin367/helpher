@@ -1,0 +1,10 @@
+签到数	首周奖励（1-体力，2-道具礼包，3-皮肤）	首周按钮	循环奖励	循环按钮	通用数量	图标	循环图标
+day	type	btnString	typeLoop	btnLoopString	number	icon	iconLoop
+int	int	string	int	string	int	string	string
+1	1	看视频领双倍体力	1	看视频领双倍体力	5	Img/icon/tili	Img/icon/tili
+2	2	看视频领双倍道具	2	看视频领双倍道具	1	Img/skin/xianding	Img/skin/xianding
+3	1	看视频领双倍体力	1	看视频领双倍体力	5	Img/icon/tili	Img/icon/tili
+4	1	看视频领双倍体力	1	看视频领双倍体力	5	Img/icon/tili	Img/icon/tili
+5	2	看视频领双倍道具	2	看视频领双倍道具	1	Img/skin/xianding	Img/skin/xianding
+6	1	看视频领双倍体力	1	看视频领双倍体力	5	Img/icon/tili	Img/icon/tili
+7	3	领取稀有皮肤	2	看视频领双倍道具	1	Img/skin/thumbnail/1/yifu1	Img/skin/xianding

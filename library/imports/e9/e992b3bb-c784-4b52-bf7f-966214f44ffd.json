@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dibantubiao",
+    "texture": "4975aeb5-02df-442d-a98d-8863348783f1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      47
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      95,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

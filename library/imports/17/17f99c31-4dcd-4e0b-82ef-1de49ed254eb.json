@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fankui_zi",
+    "texture": "7b6734b7-15bc-44d1-85a8-e05b0dc2e42f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

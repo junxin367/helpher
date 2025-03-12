@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jingqingqidai",
+    "texture": "fc5e367b-97c1-4d35-baa8-124be41bc84c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      602,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      602,
+      170
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

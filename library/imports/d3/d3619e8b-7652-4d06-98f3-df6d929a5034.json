@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shafa3",
+    "texture": "ff8d7209-0a66-44b6-aae2-6d666f94153c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      241,
+      199
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      241,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

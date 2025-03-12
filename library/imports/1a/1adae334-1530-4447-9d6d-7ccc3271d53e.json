@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dangqian",
+    "texture": "16f72b05-8e64-44cf-8817-300bdd5d538f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

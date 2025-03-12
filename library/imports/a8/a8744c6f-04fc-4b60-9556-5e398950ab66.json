@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lingqutili",
+    "texture": "c5c4da2d-e438-4aa5-ba20-844359fcf540",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      418,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      418,
+      144
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

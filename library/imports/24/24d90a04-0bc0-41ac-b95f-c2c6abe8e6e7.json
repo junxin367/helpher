@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Chapter",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "编号\t章节名\nid\tname\nint\tstring\n1\t第一章 钥不能停\n2\t第二章 小心坏蛋\n3\t第三章 恶有恶报\n4\t第四章 芝麻开门\n5\t第五章 蝙蝠射手\n6\t第六章 综合挑战\n7\t第七章 飞得更高\n8\t第八章 对症下钥\n9\t第九章 路见不平\n10\t第十章 丢掉炸弹\n11\t第十一章 不二法门\n12\t第十二章 铁索连环"
+}

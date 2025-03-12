@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "egglight",
+    "texture": "0d4f58cb-5bf3-4559-af44-2c6ea0d54cd7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      513,
+      521
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      513,
+      521
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

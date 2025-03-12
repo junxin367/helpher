@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cpks",
+    "texture": "6b3cf7cf-4bd7-4019-ac10-2a2c38fbb59b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

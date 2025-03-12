@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shoucang",
+    "texture": "3d23c9f6-5ddd-477a-8535-635b799f0ad0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      129
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

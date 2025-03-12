@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiayiguan",
+    "texture": "0ee778ea-1617-4dcc-a625-d8bb903bd441",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

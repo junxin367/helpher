@@ -1,0 +1,34 @@
+import DCUI from "./DCUI";
+import PandoraPoint from "./controller/PandoraPoint";
+
+// Learn TypeScript:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/typescript.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/manual/en/scripting/typescript.html
+// Learn Attribute:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/reference/attributes.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/manual/en/scripting/reference/attributes.html
+// Learn life-cycle callbacks:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/manual/en/scripting/life-cycle-callbacks.html
+
+const {ccclass, property,requireComponent, menu} = cc._decorator;
+
+@ccclass
+@menu("DCUI/DCPandoraPoint")
+@requireComponent(PandoraPoint)
+export default class DCPandoraPoint extends DCUI {
+
+    point:PandoraPoint;
+    onLoad()
+    {
+        this.point = this.getComponent(PandoraPoint);
+    }
+
+    onValueChanged(v)
+    {
+        this.point.setNumber(v);
+    }
+   
+
+    // update (dt) {}
+}

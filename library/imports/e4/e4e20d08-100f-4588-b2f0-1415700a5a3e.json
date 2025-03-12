@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiangzhitubiao",
+    "texture": "9bd42cd0-6424-4c6d-bcf9-762ce09ec8d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      78
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      95,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

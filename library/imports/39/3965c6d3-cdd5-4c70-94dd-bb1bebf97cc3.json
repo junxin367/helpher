@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heidi",
+    "texture": "0f118664-4cc8-439c-989e-0cd517642085",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      270,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      270,
+      52
+    ],
+    "capInsets": [
+      26,
+      0,
+      12,
+      0
+    ]
+  }
+}

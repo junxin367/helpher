@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tittle_dakaibaoxiang",
+    "texture": "6758fc0e-1a9e-4370-8f4b-f61fa4766a7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      365,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      365,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

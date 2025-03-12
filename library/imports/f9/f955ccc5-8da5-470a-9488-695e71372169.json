@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiaofu_2",
+    "texture": "78ced812-5105-4bc7-aa4e-909d162ecd52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      607,
+      201
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      607,
+      201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiaozhanmoshi",
+    "texture": "f6b959a1-479b-4894-a989-dfdab1cf3499",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      222,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      222,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

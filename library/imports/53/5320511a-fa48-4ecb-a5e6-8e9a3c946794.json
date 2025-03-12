@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zuo",
+    "texture": "497a1f6c-c094-4444-84fc-a21c8be77664",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      29,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

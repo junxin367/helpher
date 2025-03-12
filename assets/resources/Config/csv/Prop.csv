@@ -1,0 +1,6 @@
+编号	道具名	说明文本	图片
+id	name	desc	icon
+int	string	string	string
+1	电枪	发射电磁并消灭同层敌人	Img/main/gun
+2	冻结	投掷雪球使所有敌人冰冻十秒	Img/main/daoju_xuehua
+3	磁铁	立即将房间的所有星星吸收	Img/main/daoju_citie

@@ -1,0 +1,25 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "Hello world new project template.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "csv-dts": "node tools/typing_csv.js",
+    "vm-dts":"node tools/typing_vm.js",
+    "upload-build":"node tools/upload_release_build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:Ren.Wang/PizzaBoy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^2.0.3",
+    "typings": "^2.1.1"
+  }
+}

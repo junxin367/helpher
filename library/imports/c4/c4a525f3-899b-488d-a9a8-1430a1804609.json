@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guanqiamoshi",
+    "texture": "816119bf-5750-4157-b129-565b37edb257",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      221,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      221,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

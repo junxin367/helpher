@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gonfxi",
+    "texture": "ad3d34e2-b232-44bd-a686-32f52b6e18af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      719,
+      231
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      719,
+      231
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

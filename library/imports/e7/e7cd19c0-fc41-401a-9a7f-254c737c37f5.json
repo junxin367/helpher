@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baijianhengtiao",
+    "texture": "fe1ae1e9-fbe7-4b21-8e25-c2b5f3f6716f",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      282,
+      28
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      283,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

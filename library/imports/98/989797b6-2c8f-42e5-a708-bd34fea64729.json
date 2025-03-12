@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skin-font",
+    "texture": "b35000f5-197e-4141-8940-9ba233829895",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      414,
+      470
+    ],
+    "offset": [
+      -4,
+      2
+    ],
+    "originalSize": [
+      426,
+      480
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

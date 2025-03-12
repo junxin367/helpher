@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dianjikaishi",
+    "texture": "da844e58-bcad-42dd-8532-648200552cd7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      403,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      403,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

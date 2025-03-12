@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiashen4",
+    "texture": "45076db8-968b-4f35-8111-36c3c759bbf3",
+    "atlas": "",
+    "rect": [
+      22,
+      0,
+      57,
+      94
+    ],
+    "offset": [
+      0.5,
+      3
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

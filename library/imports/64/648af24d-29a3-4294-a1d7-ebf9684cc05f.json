@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "later",
+    "texture": "562f6a60-5a8f-4d83-9969-c5d8dae493bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

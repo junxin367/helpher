@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tubiao_zhuanpan",
+    "texture": "c84ca229-1532-49fc-b476-1f81d94b29d2",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      99,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

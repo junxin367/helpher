@@ -1,0 +1,52 @@
+ID	Key	desc1	config_data(0:share,1:video,2:random,3:直接获得)	type	group	color(default, primary, secondary, success, warning, danger)
+id	Key	desc1	config_data	type	group	color
+string	string	string	string	string	number	string
+1	Sync_User_Data_Time	多久上传一次数据	60	number	200	
+2	BannerAdWhiteList	显示 Banner 的View列表	UIWin,UIGetLabour,UISetting,UIPause,UILose,UIEndFloat,UIManual_Egg,UIOffLine	string	200	
+3	BannerAdRefreshWhiteList	刷新Banner的View列表	UIWin,UILose	string	200	
+4	max_video_watch	每个玩家每天能看多少个视频	200	number	3	
+5	max_share_count	每个玩家每天能分享次数	10		3	
+10	SOV_Get_Labour	视频获取体力	1	SOV2	1	danger
+11	Energy_Get_Num	视频获取体力个数	3	number	1	
+20	LabourRecoveryTime	体力恢复时间（分钟）	15	number	1	
+21	Skip_Need_Labour	跳过关卡消耗体力数量	1	number	1	
+22	Receive_banner_show_time	复活banner多少秒后显示	1	number	200	
+23	SOV_Skip_Level	跳过	1	SOV2	4	
+24	Forbid_Banner	屏蔽banner	0	boolean	200	
+						
+27	Max_Energy	玩家最高体力上限	5	number	1	
+28	EneryPackage_Count	体力礼包数量	3	number	1	
+29	SOV_EneryPackage	体力礼包视频分享点	1	SOV2	1	
+30	Init_Energy	初始体力	5	number	1	
+31	SOV_Win_Get	胜利界面获取体力	1	SOV2	9	
+32	SOV_Lose_Get	失败界面获取体力	1	SOV2	9	
+33	Get_Energey_Count	结算界面获取体力数量	3	number	9	
+34	SOV_Double_Get	双倍领取获利点	1	SOV2	1	
+						
+45	SOV_Level_Hint	提示获利点	1	SOV2	200	
+46	SOV_GetPropItem	获得游戏内补给道具	1	SOV2	200	
+						
+48	Start_Get_Gun	领取道具弹窗概率	1	SOV2	5	
+49	Level_Show_AD	不允许跳过视频的关卡，从第X关开始拉	8	number	16	danger
+50	Level_Show_AD_Skip	允许跳过视频的关卡，从第X关开始拉	100	number	16	
+51	Banner_Refresh_Rate	banner刷新间隔时间	30	number	200	
+52	Challenge_Level_Show_AD	挑战不允许跳过视频的关卡，从第X关开始拉	100	number	16	
+53	Challenge_Level_Show_AD_Skip	挑战允许跳过视频的关卡，从第X关开始拉	3	number	16	
+54	SOV_ShowAD	下一关播放视频	1	SOV2	16	
+55	Level_Show_AD_Interval	不允许跳过视频的关卡，每隔X关再次拉起	100	number	16	
+56	Level_Show_AD_Skip_Interval	允许跳过视频的关卡，每隔X关再次拉起	3	number	16	
+57	Challenge_Level_Show_AD_Interval	挑战不允许跳过视频的关卡，每隔X关再次拉起	100	number	16	
+58	Challenge_Level_Show_AD_Skip_Interval	挑战允许跳过视频的关卡，每隔X关再次拉起	3	number	16	
+59	Show_Kaiping_AD	每日开屏展示次数	0	number	16	
+60	Show_AD_Lose	累计失败数拉起视频	3	number	16	
+61	Show_AD_Lose_Skip	累计失败拉起视频是否允许跳过	0	boolean	16	
+62	Show_AD_Return	累计重试数拉起视频	5	number	16	
+63	Show_AD_Return_Skip	累计重试拉起视频是否允许跳过	1	boolean	16	
+65	Start_Lv_Get_Gun	多少关开始能领取枪	11	number	19	
+66	Get_Gun_Limt	领取枪弹窗上限	9	number	19	
+67	Get_Gun_Pro	领取枪弹窗出现的概率	1	number	19	
+68	Get_Gun_Limt_Day	每日领取枪弹窗上限	5	number	19	
+69	skin_store_free_star	免费星星个数（皮肤商店）	10	number	6	
+70	SOV_Sign_Double	签到看视屏双倍奖励	1	SOV2	7	
+71	Chanllenge_Unlock_Level	解锁挑战关的条件（关卡）	25	number	8	
+72	SOV_ProgressReward_Skin	结算奖励-抽宝箱-皮肤	1	SOV2	9	

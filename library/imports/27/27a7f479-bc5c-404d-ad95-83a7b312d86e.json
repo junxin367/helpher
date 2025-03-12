@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baijian6",
+    "texture": "fbaf2f87-7b5c-4729-808c-fc8a3cee0da0",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      48,
+      88
+    ],
+    "offset": [
+      1.5,
+      -0.5
+    ],
+    "originalSize": [
+      51,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

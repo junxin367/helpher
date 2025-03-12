@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toufatubiao",
+    "texture": "68773842-2c7c-4f61-b9a4-dea97110b787",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      88
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      95,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

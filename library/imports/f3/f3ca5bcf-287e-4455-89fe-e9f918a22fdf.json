@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qutiaozhan",
+    "texture": "91103811-2662-4cfb-abc7-9cfaf17bd0e3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

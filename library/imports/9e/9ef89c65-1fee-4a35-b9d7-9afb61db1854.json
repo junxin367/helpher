@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lijikaishi",
+    "texture": "369c9b5c-8e54-4f99-bf87-e3dec0e16e6c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

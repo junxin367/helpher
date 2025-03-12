@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gengduohaowan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 2,
+          "value": -360
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 2.3
+        },
+        {
+          "frame": 0.5,
+          "value": 1.2
+        },
+        {
+          "frame": 1,
+          "value": 2.3
+        },
+        {
+          "frame": 1.5,
+          "value": 1.2
+        },
+        {
+          "frame": 2,
+          "value": 2.3
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1.2
+        },
+        {
+          "frame": 0.5,
+          "value": 2.3
+        },
+        {
+          "frame": 1,
+          "value": 1.2
+        },
+        {
+          "frame": 1.5,
+          "value": 2.3
+        },
+        {
+          "frame": 2,
+          "value": 1.2
+        }
+      ]
+    }
+  },
+  "events": []
+}

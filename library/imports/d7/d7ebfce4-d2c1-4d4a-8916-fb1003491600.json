@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shangjinlibao",
+    "texture": "af98f6f2-c48b-4e95-80f7-7f396380ce11",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      393,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      393,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

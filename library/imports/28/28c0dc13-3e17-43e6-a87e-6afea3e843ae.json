@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huangsekuang",
+    "texture": "62ee8871-9016-4556-a685-ba2e8961c6db",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      306
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      306
+    ],
+    "capInsets": [
+      63,
+      30,
+      35,
+      29
+    ]
+  }
+}

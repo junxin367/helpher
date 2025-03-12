@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meiyoumaozi",
+    "texture": "5a5b4b12-4173-4481-8942-ca05b6eeaf60",
+    "atlas": "",
+    "rect": [
+      3,
+      21,
+      94,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

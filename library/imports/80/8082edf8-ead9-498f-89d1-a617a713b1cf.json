@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jixu",
+    "texture": "d2415b3e-082b-42d6-be44-7650093510d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      139,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      139,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

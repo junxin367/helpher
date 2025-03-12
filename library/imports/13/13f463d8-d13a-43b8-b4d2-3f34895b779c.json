@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chonglai",
+    "texture": "b44ab220-7788-4366-9f81-65f977d668ad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

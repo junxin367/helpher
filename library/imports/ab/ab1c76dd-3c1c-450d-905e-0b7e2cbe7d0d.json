@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lijilingqu",
+    "texture": "e168ba06-ff63-452b-bd48-e13adfae7d66",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      164,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

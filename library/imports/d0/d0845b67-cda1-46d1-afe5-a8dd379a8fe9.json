@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guizi1",
+    "texture": "eb70a0f1-2cd4-499d-ab63-8d8edc6cec68",
+    "atlas": "",
+    "rect": [
+      5,
+      1,
+      88,
+      99
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

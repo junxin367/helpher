@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tli",
+    "texture": "e846902f-8663-4052-b9ee-04499a7d550f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      503,
+      169
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      503,
+      169
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

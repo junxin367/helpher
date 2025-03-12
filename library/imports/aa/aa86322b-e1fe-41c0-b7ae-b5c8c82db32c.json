@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huangsedi",
+    "texture": "e761dc77-5bec-4503-88f8-b96c4e0476da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      246
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      246
+    ],
+    "capInsets": [
+      124,
+      97,
+      129,
+      137
+    ]
+  }
+}
